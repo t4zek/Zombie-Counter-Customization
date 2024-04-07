@@ -6,7 +6,7 @@ Here are a couple of options to customize the counter:
 
   In this part of the code we can change the position and reference point of the counter
 
-   ![image](https://github.com/t4zek/Zombie-Counter-Customization/assets/166259995/35d9cc69-a519-4b5e-b3cc-608e773f89bd)
+   ![image](https://github.com/t4zek/Zombie-Counter-Customization/assets/166259995/f5d95cbb-829d-4ce6-ba84-af7120fd44fe)
 
    ![image](https://github.com/t4zek/Zombie-Counter-Customization/assets/166259995/939c8d29-75f5-408f-a385-5d771040760d)
 
