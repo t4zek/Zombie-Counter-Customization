@@ -55,11 +55,6 @@ Here are a couple of options to customize the counter:
  
    ![image](https://github.com/t4zek/Zombie-Counter-Customization/assets/166259995/2cdc71d0-6844-48d1-8353-487ab3834cd8)
 
-   
+  ↳ Saved:
 
-   
-
-
-
-
-
+   Simply using the map_restart command if you are in plutonium or restarting the map by exiting and re-entering applies the changes
